@@ -1,0 +1,17 @@
+docs_list_title: GT SIAM Conference
+docs:
+
+- title: Home
+  url: index.html
+ 
+- title: Schedule 
+  url: schedule.html
+
+- title: Abstracts
+  url: Abstracts.html
+ 
+- title: Participants
+  url: participants.html
+
+- title: Registration
+  url: Registration.html
