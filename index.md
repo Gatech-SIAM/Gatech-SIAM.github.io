@@ -6,4 +6,4 @@ layout: default
 ---
 
 # The 2019 SIAM Georgia Tech Student Conference will take place at Georgia Institute of Technology on March/30/2019.
-![old page](./images/fluid_dynamics_by_liquidflames-d33beqo.jpeg)
+![old page](./assets/images/fluid_dynamics_by_liquidflames-d33beqo.jpeg)

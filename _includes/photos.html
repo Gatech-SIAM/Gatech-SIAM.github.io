@@ -1,0 +1,12 @@
+<div class="wrapper">
+    {% for img in site.static_files %}
+        {% if img.path contains 'assets/images/gallery' %}
+        <div class="item">
+            <div class="polaroid">
+                <img src="{{img.path}}">
+                <div class="caption">{{img.basename}}</div>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
