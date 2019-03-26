@@ -30,7 +30,7 @@ layout: default
 
 ---
 ### Computation and Usage of High-Order Resonant Orbit Manifold Expansions For Mission Design In the Planar Circular Restricted $$3$$-Body Problem
-  + Speaker: Bhanu Kumar
+  + Speaker: Bhanu Kumar (Georgia Tech)
   + Abstracts:
     - In recent years, stable and unstable manifolds of invariant objects (such as libration points and periodic orbits) have been increasingly recognized as an efficient tool for designing transfer trajectories in space missions.
       However, most methods currently used in mission design rely on using eigenvectors of the linearized dynamics as local approximations of the manifolds.
@@ -43,7 +43,7 @@ layout: default
 
 ---
 ### On the Stability of the Kevin-Stuart Cat's Eyes Flow
-  + Speaker: Shasha Liao
+  + Speaker: Shasha Liao (Georgia Tech)
   + Abstracts:
     - Discovered by Stuart (1967), the Kevin-Stuart Cat's Eyes flows are a class of important steady solutions of the $$2$$D Euler equation.
       We study the linear stability of them  in the domain $$\mathbb{T}_{2\pi} \times \mathbb{R}$$.
