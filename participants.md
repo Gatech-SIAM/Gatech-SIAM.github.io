@@ -9,7 +9,7 @@ layout: default
 + Fenfen Wang
 + Hassan Attarchi
 + Joan Gimeno
-+ Mihalis Sarantis
++ Michail Sarantis
 + Shasha Liao
 + Shu Liu
 + Xukai Yan
