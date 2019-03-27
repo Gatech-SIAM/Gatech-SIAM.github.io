@@ -19,7 +19,7 @@ layout: default
 ---
 ### Volumes of polytopes associated with chemical reaction networks 
   + Speaker: Cvetelina Hill (Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - The steady-state degree of a chemical reaction network is the number of complex steady-states,
         which gives an upper bound for the number of positive real steady-states.
         In general, the steady-state degree may be dicult to compute.
