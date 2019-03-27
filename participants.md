@@ -4,17 +4,18 @@ layout: default
 
 ## Participants
 
-+ Bhanu Kumar
++ Hassan    Attarchi
++ Renyi     Chen
++ Joan      Gimeno
 + Cvetelina Hill
-+ Fenfen Wang
-+ Hassan Attarchi
-+ Joan Gimeno
-+ Michail Sarantis
-+ Shasha Liao
-+ Shu Liu
-+ Xukai Yan
-+ Longmei Shu
-+ Yian Yao
-+ Jiaqi Yang
-+ Renyi Chen
-+ Xin Xing
++ Bhanu     Kumar
++ Shasha    Liao
++ Shu       Liu
++ Michail   Sarantis
++ Longmei   Shu
++ Fenfen    Wang
++ Xin       Xing
++ Xukai     Yan
++ Jiaqi     Yang
++ Yian      Yao
++ Weiwei    Zhang
