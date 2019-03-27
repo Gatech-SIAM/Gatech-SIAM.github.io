@@ -8,7 +8,7 @@ layout: default
 ---
 ### String and Escape Rate
   + Speaker: Hassan Attarchi (Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - It is well-known that the survival probability depends on the position of a hole in an open dynamical system.
       Here, we consider doubling map as a strongly chaotic map and a hole which is an element from the partition of $$2^n$$ subintervals of the same length on $$[0, 1]$$.
       Thus, we can use a binary string of length n to determine the hole position and with help of that string we can find all periods in the hole. Then, the faster escape (smaller survival probability) occurs through the hole where the minimal period of the hole assumes its maximal value among those of other holes.
@@ -31,7 +31,7 @@ layout: default
 ---
 ### Computation and Usage of High-Order Resonant Orbit Manifold Expansions For Mission Design In the Planar Circular Restricted $$3$$-Body Problem
   + Speaker: Bhanu Kumar (Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - In recent years, stable and unstable manifolds of invariant objects (such as libration points and periodic orbits) have been increasingly recognized as an efficient tool for designing transfer trajectories in space missions.
       However, most methods currently used in mission design rely on using eigenvectors of the linearized dynamics as local approximations of the manifolds.
       Since such approximations are not accurate except very close to the base invariant object, this requires large amounts of numerical integration to globalize the manifolds and locate intersections.
@@ -44,7 +44,7 @@ layout: default
 ---
 ### On the Stability of the Kevin-Stuart Cat's Eyes Flow
   + Speaker: Shasha Liao (Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - Discovered by Stuart (1967), the Kevin-Stuart Cat's Eyes flows are a class of important steady solutions of the $$2$$D Euler equation.
       We study the linear stability of them  in the domain $$\mathbb{T}_{2\pi} \times \mathbb{R}$$.
       Both analytical and numerical methods are implemented.
@@ -56,7 +56,7 @@ layout: default
 ---
 ### Response solutions for quasi-periodic forced strongly dissipative systems with any frequency vectors via fixed point theorem
   + Speaker: Fenfen Wang (Shandong University and Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - We consider several models of strongly dissipative systems,
       (including both ordinary differential equations (ODEs) and partial differential equations (PDEs), possibly ill-posed),
       subject to very strong damping and quasi-periodic external forcing.
@@ -77,7 +77,7 @@ layout: default
 ---
 ### $$(-1)$$-homogeneous solutions of stationary incompressible Navier-Stokes equations with singular rays
   + Speaker: Xukai Yan (Georgia Tech)
-  + Abstracts:
+  + Abstract:
     - In 1944, L.D. Landau first discovered explicit $$(-1)$$-homogeneous solutions of $$3$$-d stationary incompressible Navier-Stokes equations (NSE) with precisely one singularity at the origin, which are axisymmetric with no swirl.
       These solutions are now called Landau solutions.
       In 2006 V. Sverak proved that with just the $$(-1)$$-homogeneous assumption Landau solutions are the only solutions with one singularity. Our work focuses on the $$(-1)$$-homogeneous solutions of $$3$$-d incompressible stationary NSE with finitely many singularities on the unit sphere.
